@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 1440px;
+    height: 484px;
+}
+.logo{
+    
+    width: 140px;
+    height: 120px;
+}
+.home{
+    font-size: 36px;
+    color: palevioletred;
+    margin-top: 38px;
+    margin-right: 120px;
+    margin-left: 888px;
+    list-style: none;
+}
+.contactus{
+    font-size: 36px;
+    color: aqua;
+    margin-top: 38px;
+}
+.one{
+    width: 1440px;
+    height: 484px;
+}
+.confectionary{
+    font-size: 48px;
+    color: rgb(16, 70, 70);
+}
+.bigtext{
+    font-size: 20px;
+    color: rgb(22, 138, 138);
+}
+.two{
+     width: 1440px;
+    height: 484px;
+}
+nav{
+    width: 144px;
+    height: 34px;
+    margin: 100px 608px 0 608px;
+}
+.DATA{
+    margin: 100px 224px 410px 40px;
+    line-height: 32px;
+}
+.data1{
+    color: rgb(18, 86, 86);
+}
+.map{
+    width: px;
+    height: 300px;
+}
+a{
+    text-decoration: none;
+}
